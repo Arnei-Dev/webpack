@@ -24,4 +24,4 @@ Makes JS code compatible with older browsers using Babel
 - npm install --save-dev @babel/core @babel/preset-env babel-loader
 ## Add imagens
 Add file loader
-- mpm install --save-dev file-loader
+- npm install --save-dev file-loader
